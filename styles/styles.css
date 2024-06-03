@@ -31,7 +31,10 @@ body {
 
 }
 
-
+img {
+    display: block;
+    width: 100%;
+}
 
 .left-side-content {
     padding-left: 20px;
