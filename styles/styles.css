@@ -131,3 +131,7 @@ li {
     font-family: "Product Sans";
 }
 
+.right-content a:hover {
+    color: #FF0000;
+}
+
