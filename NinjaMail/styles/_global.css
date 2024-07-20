@@ -1,0 +1,11 @@
+.uppercase {
+  text-transform: uppercase;
+}
+
+ul {
+  list-style: none;
+}
+
+.d-none {
+  display: none;
+}
